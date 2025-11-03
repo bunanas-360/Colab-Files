@@ -10,6 +10,7 @@ Entregas diferente do link do GitHub não serão aceitas.
 
 
 Membros Do Grupo:
+
 Enzo Nishida | RM: 565052
 
 
@@ -19,4 +20,5 @@ Auro Vanetti | RM: 563761
 
 
 Francisco Neto | RM: 565868
+
 
